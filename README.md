@@ -1,1 +1,2 @@
-# eai6080
+# EAI6080 Group Project
+
